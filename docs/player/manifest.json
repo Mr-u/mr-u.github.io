@@ -1,0 +1,10 @@
+{
+  "wx.css": "./wx.built.css",
+  "wx.js": "./wx.built.js",
+  "coolsite.css": "./coolsite.built.css",
+  "coolsite.js": "./coolsite.built.js",
+  "fonts/glyphicons-halflings-regular.svg": "./fonts/32941d6330044744c02493835b799e90.svg",
+  "fonts/glyphicons-halflings-regular.woff": "./fonts/68ed1dac06bf0409c18ae7bc62889170.woff",
+  "fonts/glyphicons-halflings-regular.eot": "./fonts/7ad17c6085dee9a33787bac28fb23d46.eot",
+  "fonts/glyphicons-halflings-regular.ttf": "./fonts/e49d52e74b7689a0727def99da31f3eb.ttf"
+}

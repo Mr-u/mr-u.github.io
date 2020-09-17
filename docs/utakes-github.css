@@ -1,0 +1,17 @@
+@charset "UTF-8";
+body p {
+	text-align: center;
+	color: rgba(111,111,111,1.00);
+}
+.head h1 {
+	text-align: center;
+	font-size: 60px;
+	font-weight: bold;
+	margin-top: 16%;
+}
+.body {
+}
+.linnk {
+	color: rgba(197,197,197,1.00);
+	text-align: center;
+}

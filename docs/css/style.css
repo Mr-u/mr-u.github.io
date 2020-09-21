@@ -86,7 +86,6 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 }
 .section-title {
 	margin-bottom: 50px;
-	width: 100%;
 }
 .btn-custom {
 	font-family: 'Montserrat', sans-serif;
@@ -262,7 +261,6 @@ ol.type li a:hover {
 	color: #666;
 	margin-bottom: -1px;
 	line-height: 24px;
-	width: 100%;
 	text-align: left;
 }
 .guanyu {

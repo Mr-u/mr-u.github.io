@@ -63,6 +63,7 @@ ul, ol {
 	padding: 0;
 	webkit-padding: 0;
 	moz-padding: 0;
+	display: none;
 }
 hr {
 	height: 6px;
@@ -85,6 +86,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 }
 .section-title {
 	margin-bottom: 50px;
+	width: 100%;
 }
 .btn-custom {
 	font-family: 'Montserrat', sans-serif;
@@ -240,7 +242,10 @@ ol.type li a:hover {
 }
 /* Contact Section */
 #contact {
-	padding: 60px 0 60px 0;
+	padding-top: 0px;
+	padding-right: 0;
+	padding-left: 0;
+	padding-bottom: 0px;
 	background: #262626;
 }
 #contact h2 {
@@ -249,13 +254,18 @@ ol.type li a:hover {
 	margin: 60px 0;
 }
 #contact img {
-	width: 140px;
-	margin: 5px 30px 10px 0;
+	float: left;
+	clear: left;
+	width: 90px;
 }
 #contact p {
 	color: #666;
-	margin-bottom: 20px;
+	margin-bottom: -1px;
 	line-height: 24px;
+	width: 100%;
+	text-align: left;
+}
+.guanyu {
 }
 #contact .social {
 	margin-top: 40px;
